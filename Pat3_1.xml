@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<TypePattern xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <Number> 3.1 </Number>
+    <Name> ?????? ?? ??????? 2-?? ??????. ??????? 1 </Name>
+    <Map>
+         <SetUpMap>
+                   <X>10</X>
+                   <Y>30</Y>
+                   <Weight>700</Weight>
+                   <Height>220</Height>
+         </SetUpMap>
+         <MapNameFile> @"C:\Users\????????\Desktop\ProjectForPowerPoint\Pic8.png" </MapNameFile>
+    </Map>
+    <SChart>
+            <SetUpS>
+              <X/>
+              <Y/>
+              <Weight/>
+              <Height/>
+              <FontHeight/>
+              <VertikalAxis>
+                 <VMinValue/>
+                 <VMaxValue/>
+              </VertikalAxis>
+              <HorisontalAxis>
+                 <HMinValue/>
+                 <HMaxValue/>
+              </HorisontalAxis>
+              <MarkerSize/>
+              <MarkerSymol/>
+              <LabelColor/>
+              
+            </SetUpS>
+    </SChart>
+    <TabCMP/>
+    <TabMTP/>
+</TypePattern>
+
+
+
